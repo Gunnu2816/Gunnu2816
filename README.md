@@ -2,7 +2,7 @@
 
 🎓 ECE Student at BIT Mesra  
 💻 DSA + Web Development + ML Enthusiast  
-🌱 Currently learning Node.js and Express and ML algorithms 
+🌱 Currently learning ML algorithms 
 🚀 Solved 200+ LeetCode problems
 
 ## 🌐 Connect with me
