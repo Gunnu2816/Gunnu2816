@@ -12,6 +12,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gungun_2816?igsh=MWdiYzQ0am04ZDducQ==)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunnu2816@gmail.com)
+
+## 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bootstrap,react,nodejs,express,mysql,git,github,vscode,flask,arduino" />
+</p>
 <!--
 **Gunnu2816/Gunnu2816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
