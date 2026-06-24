@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi 👋, I'm Gungun
+
+🎓 ECE Student at BIT Mesra  
+💻 DSA + Web Development + ML Enthusiast  
+🌱 Currently learning Node.js and Express and ML algorithms 
+🚀 Solved 200+ LeetCode problems
 
 <!--
 **Gunnu2816/Gunnu2816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
